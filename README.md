@@ -1,1 +1,2 @@
-# Berkeleybeitsch.github.io this website shows my(Berkeley's) favoriate palces from all over the wolrd. starting off from the firt palce see ever went to out of the country in Africa, to some of her favoriate palces closer to home! Shes also a really big hockey fan so she of coruse had to add her favorite NHL teams home stadium.
+# Berkeleybeitsch.github.io
+This website shows my(Berkeley) favorite places from all over the world. Starting off from the first place see ever went to out of the country to Africa, to some of her favorite places closer to home! Shes also a really big hockey fan so she of course had to add her favorite NHL teams home stadium.
